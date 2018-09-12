@@ -1,2 +1,2 @@
 # ProjetoAnaliseAlgoritmos
-This repository contains the code of 3Sat and CLIQUE problem 
+Esse repositório contém os algoritmos para os problema CLIQUE e 3-SAT
